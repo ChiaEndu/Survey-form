@@ -14,6 +14,7 @@ div{
     border-radius: 5px;
     padding: 30px;
     background-color: rgba(0,0,0,0.65);
+    width: 80%;
 }
 button{
     width: 100%;
