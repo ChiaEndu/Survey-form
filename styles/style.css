@@ -14,7 +14,7 @@ div{
     border-radius: 5px;
     padding: 30px;
     background-color: rgba(0,0,0,0.65);
-    width: 80%;
+    max-width: 90%;
 }
 button{
     width: 100%;
@@ -35,7 +35,7 @@ button{
     border-radius: 3px;
     
 }
-.op{
+.options{
     width: 100%;
     padding: 5px;
 }
